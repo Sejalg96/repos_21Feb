@@ -2,3 +2,4 @@ This is 2nd file. i want do nothing. It's boring.
 How are you..what are you doing..?
 I am fine--what about you..?
 doing change after putting the ThirdFile in Stash.
+Second person is doing the change in file form his side.
