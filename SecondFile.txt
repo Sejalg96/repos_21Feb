@@ -6,3 +6,4 @@ doing change after putting the ThirdFile in Stash.
 changing the file for getting merge conflicts.
 
 Second person is doing the change in file form his side.
+Changing this ...
