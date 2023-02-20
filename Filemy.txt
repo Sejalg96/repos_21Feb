@@ -1,1 +1,2 @@
-My first file ever in git respostry
+My first file ever in git respostry.
+This is my second line. I want something new
